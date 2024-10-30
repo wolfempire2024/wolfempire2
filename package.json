@@ -15,7 +15,8 @@
   "dependencies": {
     "discord-giveaways": "^4.4.3",
     "discord.js": "^12.5.3",
-    "ms": "^2.1.2"
+    "ms": "^2.1.2",
+    "express":"^4.16.3"
   },
 "engines":{
 "node":"18.x"
